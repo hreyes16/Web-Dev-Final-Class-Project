@@ -1,0 +1,271 @@
+html{
+	background-color: #5E9DC8;
+}
+
+.homeheader{
+	
+	color: black;
+	font-family: 'Fuzzy Bubbles', cursive;
+	color: white;
+
+
+}
+
+.mainpage {
+	width: 50%;
+	margin:  auto;
+	font-size: 35px;
+}
+
+.options{
+	text-align: center;
+	color: gree;
+	display: flex;
+	justify-content: space-around;
+
+}
+
+.suboptions{
+border-style: solid;
+border-color: white;
+margin: 10px;
+
+background-color: #FFFFFF;
+border-radius: 30px;
+
+}
+
+.suboptions:hover{
+	background-color: #89CFF0;
+	border-color: white;
+	border-style: solid;
+	
+}
+
+
+ul{
+	display:  flex;
+
+}
+
+h1{
+	font-family: 'Fuzzy Bubbles', cursive;
+	color: white;
+	text-align: center;
+}
+
+
+h2{
+	text-align: center;
+	color: white;
+}
+
+.headersubinfo{
+color:  whitesmoke;
+font-family: 'Fuzzy Bubbles', cursive;
+width: 100%;
+margin: auto;
+text-align: center;
+
+}
+
+li{
+ 	width: 200px;
+ 	list-style-type: none;
+ }
+
+
+.package-container{
+	display: flex;
+	justify-content: space-around;
+
+	
+	
+}
+
+.project-image{
+	border-style: solid;
+	border-color: aliceblue;
+	border-radius: 100px;
+	width: 350px;
+	height: 350px;
+	margin: 25px;
+
+}
+
+.project-image:hover{
+	
+	border-color: white;
+	border-style: solid;
+
+	transform: scale(1.1);
+	
+
+}
+
+.package-subtext{
+ font-size: 35px;
+
+}
+
+.suboptions{
+border-style: solid;
+border-color: white;
+margin: 10px;
+
+background-color: #FFFFFF;
+border-radius: 30px;
+
+}
+
+.suboptions:hover{
+	background-color: #89CFF0;
+	border-color: white;
+	border-style: solid;
+	
+}
+
+.links{
+	color: black;
+	font-family: 'Fuzzy Bubbles', cursive;
+	font-size: 25px;
+	color: black;
+}
+
+.footer{
+	text-align: center;
+}
+
+.contactinfobox{
+	width: 500px;
+	background-color: white;
+	margin: auto;
+	padding: 100px;
+	background-color: transparent;
+	color: white;
+
+}
+
+.contacttitle{
+	text-align: center;
+	font-family: 'Fuzzy Bubbles', cursive;
+	color: white;
+	
+}
+
+
+#name{
+ border-style: solid;
+ border-radius: 25px;
+ font-size: 20px;
+ color: black;
+background-color: white;
+padding: 10px;
+
+
+}
+
+#email{
+	border-style: solid;
+	border-radius: 25px;
+	font-size: 20px;
+	background-color: white;
+	  
+}
+
+.contactoptions{
+	text-align: center;
+	display: flex;
+	justify-content: space-around;
+
+
+}
+
+#message{
+ width: 500px;
+ height: 200px;
+ background-color: white;
+ border-radius: 20px;
+ border-color: white;
+ text-align: center;
+ display: flex;
+
+}
+
+#tableone{
+	float: right;
+	margin-right: 400px;
+}
+
+#tabletwo{
+	float: left;
+	margin-left: 400px;
+	
+}
+
+#tablethree{
+
+}
+
+table {
+
+margin: auto;
+}
+
+table th{
+
+	background-color: #5E9DC8;
+	color: white;
+	padding: 4px 30px 4px 8px;
+	font-family: 'Fuzzy Bubbles', cursive;
+	height: 50px;
+}
+
+table td {
+
+	border: 3px solid;
+	padding:  1px 18px;
+	color: white;
+	font-family: 'Fuzzy Bubbles', cursive;
+	border-radius: 30px;
+	height: 50px;
+
+}
+
+.Gallery{
+	text-align: center;
+	margin: 10px 50px;
+	
+	
+}
+
+.Gallery img{
+	width: 300px;
+	height: 250px;
+	padding: 15px;
+	border-radius: 35px;
+	filter:  grayscale(100%);
+}
+
+.Gallery img:hover{
+	filter:  grayscale(0);
+	transform: scale(1.1);
+	
+}
+
+.aboutus{
+	font-family: 'Fuzzy Bubbles', cursive;
+	color: white;
+	font-size: 30px;
+}
+
+#aboutusinfo{
+font-family: 'Fuzzy Bubbles', cursive;
+width: 800px;
+height: 400px;
+margin: auto;
+color: white;
+font-size: 40px;
+ 
+}
+
